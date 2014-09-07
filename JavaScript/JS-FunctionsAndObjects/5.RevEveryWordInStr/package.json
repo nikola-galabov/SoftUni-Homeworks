@@ -1,0 +1,10 @@
+{
+  "name": "_5.RevEveryWordInStr",
+  "version": "0.0.0",
+  "description": "5.RevEveryWordInStr",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

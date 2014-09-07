@@ -1,0 +1,29 @@
+﻿body {
+    background-color:#1f4e6c;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 70%;
+    height: 500px;
+    background-image: url(/images/background.jpg);
+    background-repeat: round;
+    position: relative;
+}
+
+#player {
+    position: absolute;
+    width: 7%;
+    bottom: 25px;
+    right: 50%;
+}
+.rocks {
+    width:10%;
+    position:absolute;
+}
+#score {
+    font-size:35px;
+    color:red;
+    margin-left:5px;
+    position:absolute;
+}

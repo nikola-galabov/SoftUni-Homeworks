@@ -1,0 +1,10 @@
+{
+  "name": "_3.NumLargestSumDigits",
+  "version": "0.0.0",
+  "description": "3.NumLargestSumDigits",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_8.CylinderVolume",
+  "version": "0.0.0",
+  "description": "8.CylinderVolume",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

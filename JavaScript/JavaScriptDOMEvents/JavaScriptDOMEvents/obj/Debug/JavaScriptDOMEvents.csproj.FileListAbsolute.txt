@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2013\Projects\JS-Homeworks\JavaScriptDOMEvents\JavaScriptDOMEvents\bin\JavaScriptDOMEvents.dll.config
+c:\users\niki\documents\visual studio 2013\Projects\JS-Homeworks\JavaScriptDOMEvents\JavaScriptDOMEvents\bin\JavaScriptDOMEvents.dll
+c:\users\niki\documents\visual studio 2013\Projects\JS-Homeworks\JavaScriptDOMEvents\JavaScriptDOMEvents\bin\JavaScriptDOMEvents.pdb
+c:\users\niki\documents\visual studio 2013\Projects\JS-Homeworks\JavaScriptDOMEvents\JavaScriptDOMEvents\obj\Debug\JavaScriptDOMEvents.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2013\Projects\JS-Homeworks\JavaScriptDOMEvents\JavaScriptDOMEvents\obj\Debug\JavaScriptDOMEvents.dll
+c:\users\niki\documents\visual studio 2013\Projects\JS-Homeworks\JavaScriptDOMEvents\JavaScriptDOMEvents\obj\Debug\JavaScriptDOMEvents.pdb

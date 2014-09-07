@@ -1,0 +1,15 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Print Mouse Coordinates </title>
+</head>
+<body>
+    <p id="coord"></p>
+    <script>
+        document.onclick = function (e) {
+            var date = new Date();
+            document.getElementById('coord').innerHTML += 'X:' + e.clientX + '; Y:' + e.clientY + '; ' + date + '<br/>';
+        }
+    </script>
+</body>
+</html>

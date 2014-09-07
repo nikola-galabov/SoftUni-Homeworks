@@ -1,0 +1,6 @@
+C:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Falling-rocks\bin\Falling-rocks.dll.config
+C:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Falling-rocks\bin\Falling-rocks.dll
+C:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Falling-rocks\bin\Falling-rocks.pdb
+C:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Falling-rocks\obj\Debug\Falling-rocks.csprojResolveAssemblyReference.cache
+C:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Falling-rocks\obj\Debug\Falling-rocks.dll
+C:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Falling-rocks\obj\Debug\Falling-rocks.pdb

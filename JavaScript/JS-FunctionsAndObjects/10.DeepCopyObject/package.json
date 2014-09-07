@@ -1,0 +1,10 @@
+{
+  "name": "_10.DeepCopyObject",
+  "version": "0.0.0",
+  "description": "10.DeepCopyObject",
+  "main": "10.DeepCopyObject.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

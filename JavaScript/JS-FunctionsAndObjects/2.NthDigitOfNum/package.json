@@ -1,0 +1,10 @@
+{
+  "name": "_2.NthDigitOfNum",
+  "version": "0.0.0",
+  "description": "2.NthDigitOfNum",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

@@ -1,0 +1,6 @@
+c:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Tic-Tac-Toe\bin\Tic-Tac-Toe.dll.config
+c:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Tic-Tac-Toe\bin\Tic-Tac-Toe.dll
+c:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Tic-Tac-Toe\bin\Tic-Tac-Toe.pdb
+c:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+c:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.dll
+c:\Users\Niki\documents\visual studio 2013\Projects\JS-Homeworks\JS-Intro\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb

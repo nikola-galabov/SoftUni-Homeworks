@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Problem 4.Numbers Only Field</title>
+</head>
+<body>
+    <input id="numsOnly" type="text" value="" />
+    <script>
+        var input = document.getElementById('numsOnly');
+        var number = '';
+        input.onkeyup = function (e) {
+            if (e.keyCode >= 48 && e.keyCode >= 58) {
+                input.style.backgroundColor = 'red';
+                input.value = number;
+            } else {
+                input.style.backgroundColor = 'white';
+                number = input.value;
+            }
+        }
+    </script>
+</body>
+</html>

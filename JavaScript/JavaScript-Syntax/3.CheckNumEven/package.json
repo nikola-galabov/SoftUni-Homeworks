@@ -1,0 +1,10 @@
+{
+  "name": "_3.CheckNumEven",
+  "version": "0.0.0",
+  "description": "3.CheckNumEven",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

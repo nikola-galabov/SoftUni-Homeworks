@@ -1,0 +1,10 @@
+{
+  "name": "hometown",
+  "version": "0.0.0",
+  "description": "hometown",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_4.CheckNumPrime",
+  "version": "0.0.0",
+  "description": "4.CheckNumPrime",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}

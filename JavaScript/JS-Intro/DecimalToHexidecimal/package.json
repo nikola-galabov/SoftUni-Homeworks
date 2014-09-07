@@ -1,0 +1,10 @@
+{
+  "name": "DecimalToHexidecimal",
+  "version": "0.0.0",
+  "description": "DecimalToHexidecimal",
+  "main": "app.js",
+  "author": {
+    "name": "Niki",
+    "email": ""
+  }
+}
