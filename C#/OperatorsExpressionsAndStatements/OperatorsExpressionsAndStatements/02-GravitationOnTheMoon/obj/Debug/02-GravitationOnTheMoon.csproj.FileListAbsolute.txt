@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02-GravitationOnTheMoon\bin\Debug\02-GravitationOnTheMoon.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02-GravitationOnTheMoon\bin\Debug\02-GravitationOnTheMoon.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02-GravitationOnTheMoon\obj\Debug\02-GravitationOnTheMoon.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\02-GravitationOnTheMoon\obj\Debug\02-GravitationOnTheMoon.pdb

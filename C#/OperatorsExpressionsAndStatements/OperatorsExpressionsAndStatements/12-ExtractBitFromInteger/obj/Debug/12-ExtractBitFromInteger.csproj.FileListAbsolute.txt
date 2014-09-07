@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12-ExtractBitFromInteger\bin\Debug\12-ExtractBitFromInteger.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12-ExtractBitFromInteger\bin\Debug\12-ExtractBitFromInteger.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12-ExtractBitFromInteger\obj\Debug\12-ExtractBitFromInteger.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\12-ExtractBitFromInteger\obj\Debug\12-ExtractBitFromInteger.pdb

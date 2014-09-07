@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\15-BitsExchange\bin\Debug\15-BitsExchange.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\15-BitsExchange\bin\Debug\15-BitsExchange.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\15-BitsExchange\obj\Debug\15-BitsExchange.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\15-BitsExchange\obj\Debug\15-BitsExchange.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\15-BitsExchange\obj\Debug\15-BitsExchange.pdb

@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\13-BinaryToDecimal\bin\Debug\13-BinaryToDecimal.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\13-BinaryToDecimal\bin\Debug\13-BinaryToDecimal.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\13-BinaryToDecimal\bin\Debug\13-BinaryToDecimal.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\13-BinaryToDecimal\obj\Debug\13-BinaryToDecimal.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\13-BinaryToDecimal\obj\Debug\13-BinaryToDecimal.pdb

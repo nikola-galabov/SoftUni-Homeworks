@@ -1,0 +1,4 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07-StringsAndObjects\bin\Debug\07-StringsAndObjects.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07-StringsAndObjects\bin\Debug\07-StringsAndObjects.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07-StringsAndObjects\obj\Debug\07-StringsAndObjects.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\07-StringsAndObjects\obj\Debug\07-StringsAndObjects.pdb

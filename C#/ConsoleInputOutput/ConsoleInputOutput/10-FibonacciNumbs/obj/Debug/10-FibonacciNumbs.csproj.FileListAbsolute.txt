@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\10-FibonacciNumbs\bin\Debug\10-FibonacciNumbs.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\10-FibonacciNumbs\bin\Debug\10-FibonacciNumbs.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\10-FibonacciNumbs\obj\Debug\10-FibonacciNumbs.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\10-FibonacciNumbs\obj\Debug\10-FibonacciNumbs.pdb

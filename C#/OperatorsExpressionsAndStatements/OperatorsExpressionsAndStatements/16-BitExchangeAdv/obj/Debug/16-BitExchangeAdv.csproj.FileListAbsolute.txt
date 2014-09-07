@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\16-BitExchangeAdv\bin\Debug\16-BitExchangeAdv.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\16-BitExchangeAdv\bin\Debug\16-BitExchangeAdv.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\16-BitExchangeAdv\bin\Debug\16-BitExchangeAdv.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\16-BitExchangeAdv\obj\Debug\16-BitExchangeAdv.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\16-BitExchangeAdv\obj\Debug\16-BitExchangeAdv.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\16-BitExchangeAdv\obj\Debug\16-BitExchangeAdv.csprojResolveAssemblyReference.cache

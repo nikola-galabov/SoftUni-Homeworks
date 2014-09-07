@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\11-NumbsInIntervalDivByNum\bin\Debug\11-NumbsInIntervalDivByNum.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\11-NumbsInIntervalDivByNum\bin\Debug\11-NumbsInIntervalDivByNum.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\11-NumbsInIntervalDivByNum\obj\Debug\11-NumbsInIntervalDivByNum.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\11-NumbsInIntervalDivByNum\obj\Debug\11-NumbsInIntervalDivByNum.pdb

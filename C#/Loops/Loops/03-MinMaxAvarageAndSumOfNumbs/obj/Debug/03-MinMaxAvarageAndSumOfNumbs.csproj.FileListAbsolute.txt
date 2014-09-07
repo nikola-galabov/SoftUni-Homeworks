@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\03-MinMaxAvarageAndSumOfNumbs\bin\Debug\03-MinMaxAvarageAndSumOfNumbs.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\03-MinMaxAvarageAndSumOfNumbs\bin\Debug\03-MinMaxAvarageAndSumOfNumbs.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\03-MinMaxAvarageAndSumOfNumbs\bin\Debug\03-MinMaxAvarageAndSumOfNumbs.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\03-MinMaxAvarageAndSumOfNumbs\obj\Debug\03-MinMaxAvarageAndSumOfNumbs.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\03-MinMaxAvarageAndSumOfNumbs\obj\Debug\03-MinMaxAvarageAndSumOfNumbs.pdb

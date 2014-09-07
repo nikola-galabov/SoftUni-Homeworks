@@ -1,0 +1,4 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07-Sum5Numbs\bin\Debug\07-Sum5Numbs.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07-Sum5Numbs\bin\Debug\07-Sum5Numbs.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07-Sum5Numbs\obj\Debug\07-Sum5Numbs.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\07-Sum5Numbs\obj\Debug\07-Sum5Numbs.pdb

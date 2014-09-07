@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\14-BinaryToDec\bin\Debug\14-BinaryToDec.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\14-BinaryToDec\bin\Debug\14-BinaryToDec.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\14-BinaryToDec\bin\Debug\14-BinaryToDec.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\14-BinaryToDec\obj\Debug\14-DecToBinary.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\Loops\14-BinaryToDec\obj\Debug\14-BinaryToDec.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\14-BinaryToDec\obj\Debug\14-BinaryToDec.pdb

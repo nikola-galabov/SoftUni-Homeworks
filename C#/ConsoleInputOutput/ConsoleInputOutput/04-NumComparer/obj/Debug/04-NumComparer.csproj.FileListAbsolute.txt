@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\04-NumComparer\bin\Debug\04-NumComparer.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\04-NumComparer\bin\Debug\04-NumComparer.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\04-NumComparer\obj\Debug\04-NumComparer.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\04-NumComparer\obj\Debug\04-NumComparer.pdb

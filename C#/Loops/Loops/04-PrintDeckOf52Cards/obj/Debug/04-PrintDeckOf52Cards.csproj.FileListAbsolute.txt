@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\04-PrintDeckOf52Cards\bin\Debug\04-PrintDeckOf52Cards.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\04-PrintDeckOf52Cards\bin\Debug\04-PrintDeckOf52Cards.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\04-PrintDeckOf52Cards\bin\Debug\04-PrintDeckOf52Cards.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\04-PrintDeckOf52Cards\obj\Debug\04-PrintDeckOf52Cards.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\04-PrintDeckOf52Cards\obj\Debug\04-PrintDeckOf52Cards.pdb

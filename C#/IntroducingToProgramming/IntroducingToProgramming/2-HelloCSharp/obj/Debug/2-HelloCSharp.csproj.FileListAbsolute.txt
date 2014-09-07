@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\2-HelloCSharp\bin\Debug\2-HelloCSharp.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\2-HelloCSharp\bin\Debug\2-HelloCSharp.pdb
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\2-HelloCSharp\obj\Debug\2-HelloCSharp.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\2-HelloCSharp\obj\Debug\2-HelloCSharp.pdb

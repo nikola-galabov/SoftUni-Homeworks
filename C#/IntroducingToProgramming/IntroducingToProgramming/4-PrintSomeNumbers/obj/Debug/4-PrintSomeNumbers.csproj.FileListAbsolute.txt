@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\4-PrintSomeNumbers\bin\Debug\4-PrintSomeNumbers.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\4-PrintSomeNumbers\bin\Debug\4-PrintSomeNumbers.pdb
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\4-PrintSomeNumbers\obj\Debug\4-PrintSomeNumbers.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\4-PrintSomeNumbers\obj\Debug\4-PrintSomeNumbers.pdb

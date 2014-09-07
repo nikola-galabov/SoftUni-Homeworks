@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10-PointInCircOutRect\bin\Debug\10-PointInCircOutRect.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10-PointInCircOutRect\bin\Debug\10-PointInCircOutRect.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10-PointInCircOutRect\obj\Debug\10-PointInCircOutRect.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10-PointInCircOutRect\obj\Debug\10-PointInCircOutRect.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\10-PointInCircOutRect\obj\Debug\10-PointInCircOutRect.pdb

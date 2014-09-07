@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\07-CalculateFaktorialExpression\bin\Debug\07-CalculateFaktorialExpression.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\07-CalculateFaktorialExpression\bin\Debug\07-CalculateFaktorialExpression.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\07-CalculateFaktorialExpression\bin\Debug\07-CalculateFaktorialExpression.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\07-CalculateFaktorialExpression\obj\Debug\07-CalculateFaktorialExpression.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\07-CalculateFaktorialExpression\obj\Debug\07-CalculateFaktorialExpression.pdb

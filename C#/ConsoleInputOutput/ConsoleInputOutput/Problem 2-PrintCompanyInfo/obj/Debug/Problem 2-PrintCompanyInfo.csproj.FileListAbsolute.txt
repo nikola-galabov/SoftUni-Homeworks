@@ -1,0 +1,1 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\Problem 2-PrintCompanyInfo\bin\Debug\Problem 2-PrintCompanyInfo.exe.config

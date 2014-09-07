@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09-Trapezoids\bin\Debug\09-Trapezoids.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09-Trapezoids\bin\Debug\09-Trapezoids.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09-Trapezoids\obj\Debug\09-Trapezoids.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09-Trapezoids\obj\Debug\09-Trapezoids.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\09-Trapezoids\obj\Debug\09-Trapezoids.pdb

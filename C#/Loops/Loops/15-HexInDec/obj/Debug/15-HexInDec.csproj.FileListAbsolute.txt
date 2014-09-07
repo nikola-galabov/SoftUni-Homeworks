@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\15-HexInDec\bin\Debug\15-HexInDec.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\15-HexInDec\bin\Debug\15-HexInDec.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\15-HexInDec\bin\Debug\15-HexInDec.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\15-HexInDec\obj\Debug\15-HexInDec.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\15-HexInDec\obj\Debug\15-HexInDec.pdb

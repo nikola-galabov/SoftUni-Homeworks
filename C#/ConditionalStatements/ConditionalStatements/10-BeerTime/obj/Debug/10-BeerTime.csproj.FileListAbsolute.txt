@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\10-BeerTime\bin\Debug\10-BeerTime.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\10-BeerTime\bin\Debug\10-BeerTime.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\10-BeerTime\obj\Debug\10-BeerTime.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\10-BeerTime\obj\Debug\10-BeerTime.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\10-BeerTime\obj\Debug\10-BeerTime.pdb

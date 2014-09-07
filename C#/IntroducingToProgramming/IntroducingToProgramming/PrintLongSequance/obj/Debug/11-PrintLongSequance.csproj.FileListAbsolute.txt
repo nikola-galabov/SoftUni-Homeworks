@@ -1,0 +1,4 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\PrintLongSequance\bin\Debug\PrintLongSequance.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\PrintLongSequance\bin\Debug\PrintLongSequance.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\PrintLongSequance\obj\Debug\PrintLongSequance.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\PrintLongSequance\obj\Debug\PrintLongSequance.pdb

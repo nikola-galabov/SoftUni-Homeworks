@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\6-SquareRootOfNumber\bin\Debug\6-SquareRootOfNumber.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\6-SquareRootOfNumber\bin\Debug\6-SquareRootOfNumber.pdb
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\6-SquareRootOfNumber\obj\Debug\6-SquareRootOfNumber.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\6-SquareRootOfNumber\obj\Debug\6-SquareRootOfNumber.pdb

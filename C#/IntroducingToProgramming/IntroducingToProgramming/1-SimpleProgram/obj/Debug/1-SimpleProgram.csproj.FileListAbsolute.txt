@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\1-SimpleProgram\bin\Debug\1-SimpleProgram.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\1-SimpleProgram\bin\Debug\1-SimpleProgram.pdb
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\1-SimpleProgram\obj\Debug\1-SimpleProgram.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\1-SimpleProgram\obj\Debug\1-SimpleProgram.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\1-SimpleProgram\obj\Debug\1-SimpleProgram.pdb

@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\03-CheckForPlayCard\bin\Debug\03-CheckForPlayCard.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\03-CheckForPlayCard\bin\Debug\03-CheckForPlayCard.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\03-CheckForPlayCard\obj\Debug\03-CheckForPlayCard.pdb

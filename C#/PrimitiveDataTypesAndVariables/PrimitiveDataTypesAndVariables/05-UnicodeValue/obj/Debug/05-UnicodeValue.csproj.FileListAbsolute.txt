@@ -1,0 +1,4 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\05-UnicodeValue\bin\Debug\05-UnicodeValue.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\05-UnicodeValue\bin\Debug\05-UnicodeValue.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\05-UnicodeValue\obj\Debug\05-UnicodeValue.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\05-UnicodeValue\obj\Debug\05-UnicodeValue.pdb

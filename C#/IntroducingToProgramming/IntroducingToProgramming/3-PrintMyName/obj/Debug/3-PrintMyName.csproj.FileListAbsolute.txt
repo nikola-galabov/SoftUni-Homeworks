@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\3-PrintMyName\bin\Debug\3-PrintMyName.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\3-PrintMyName\bin\Debug\3-PrintMyName.pdb
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\3-PrintMyName\obj\Debug\3-PrintMyName.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\3-PrintMyName\obj\Debug\3-PrintMyName.pdb

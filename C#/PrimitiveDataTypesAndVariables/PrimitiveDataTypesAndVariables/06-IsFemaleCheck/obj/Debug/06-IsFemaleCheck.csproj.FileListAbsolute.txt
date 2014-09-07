@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06-IsFemaleCheck\bin\Debug\06-IsFemaleCheck.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06-IsFemaleCheck\bin\Debug\06-IsFemaleCheck.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06-IsFemaleCheck\obj\Debug\06-IsFemaleCheck.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06-IsFemaleCheck\obj\Debug\06-IsFemaleCheck.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\06-IsFemaleCheck\obj\Debug\06-IsFemaleCheck.pdb

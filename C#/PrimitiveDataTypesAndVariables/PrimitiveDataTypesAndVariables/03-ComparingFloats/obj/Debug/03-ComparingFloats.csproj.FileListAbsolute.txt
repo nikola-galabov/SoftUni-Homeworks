@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03-ComparingFloats\bin\Debug\03-ComparingFloats.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03-ComparingFloats\bin\Debug\03-ComparingFloats.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03-ComparingFloats\obj\Debug\03-ComparingFloats.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03-ComparingFloats\obj\Debug\03-ComparingFloats.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\03-ComparingFloats\obj\Debug\03-ComparingFloats.pdb

@@ -1,0 +1,2 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\9-CurrentDayAndTime\obj\Debug\9-CurrentDayAndTime.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\9-CurrentDayAndTime\obj\Debug\9-CurrentDayAndTime.pdb

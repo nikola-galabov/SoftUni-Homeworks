@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\06-CalculateNfactDivKfact\bin\Debug\06-CalculateNfactDivKfact.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\06-CalculateNfactDivKfact\bin\Debug\06-CalculateNfactDivKfact.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\06-CalculateNfactDivKfact\bin\Debug\06-CalculateNfactDivKfact.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\06-CalculateNfactDivKfact\obj\Debug\06-CalculateNfactDivKfact.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\06-CalculateNfactDivKfact\obj\Debug\06-CalculateNfactDivKfact.pdb

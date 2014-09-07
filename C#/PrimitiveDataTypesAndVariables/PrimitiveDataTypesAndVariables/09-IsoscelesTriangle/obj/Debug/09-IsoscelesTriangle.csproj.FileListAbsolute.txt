@@ -1,0 +1,4 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\09-IsoscelesTriangle\bin\Debug\09-IsoscelesTriangle.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\09-IsoscelesTriangle\bin\Debug\09-IsoscelesTriangle.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\09-IsoscelesTriangle\obj\Debug\09-IsoscelesTriangle.pdb

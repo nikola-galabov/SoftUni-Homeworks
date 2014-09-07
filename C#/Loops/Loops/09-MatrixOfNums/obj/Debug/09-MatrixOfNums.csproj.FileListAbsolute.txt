@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\09-MatrixOfNums\bin\Debug\09-MatrixOfNums.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\09-MatrixOfNums\bin\Debug\09-MatrixOfNums.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\09-MatrixOfNums\bin\Debug\09-MatrixOfNums.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\09-MatrixOfNums\obj\Debug\09-MatrixOfNums.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\09-MatrixOfNums\obj\Debug\09-MatrixOfNums.pdb

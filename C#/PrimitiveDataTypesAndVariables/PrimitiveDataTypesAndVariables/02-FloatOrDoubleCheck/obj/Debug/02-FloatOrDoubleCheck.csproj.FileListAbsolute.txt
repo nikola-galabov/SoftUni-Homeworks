@@ -1,0 +1,1 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02-FloatOrDoubleCheck\bin\Debug\02-FloatOrDoubleCheck.exe.config

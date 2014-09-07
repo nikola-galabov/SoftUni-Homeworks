@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\10-OddAndEvenProduct\bin\Debug\10-OddAndEvenProduct.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\10-OddAndEvenProduct\bin\Debug\10-OddAndEvenProduct.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\10-OddAndEvenProduct\bin\Debug\10-OddAndEvenProduct.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\10-OddAndEvenProduct\obj\Debug\10-OddAndEvenProduct.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\10-OddAndEvenProduct\obj\Debug\10-OddAndEvenProduct.pdb

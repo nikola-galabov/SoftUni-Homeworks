@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\11-RandomNums\bin\Debug\11-RandomNums.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\11-RandomNums\bin\Debug\11-RandomNums.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\11-RandomNums\bin\Debug\11-RandomNums.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\11-RandomNums\obj\Debug\11-RandomNums.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\11-RandomNums\obj\Debug\11-RandomNums.pdb

@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\03-CirclePerimAndArea\bin\Debug\03-CirclePerimAndArea.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\03-CirclePerimAndArea\bin\Debug\03-CirclePerimAndArea.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\03-CirclePerimAndArea\obj\Debug\03-CirclePerimAndArea.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\03-CirclePerimAndArea\obj\Debug\03-CirclePerimAndArea.pdb

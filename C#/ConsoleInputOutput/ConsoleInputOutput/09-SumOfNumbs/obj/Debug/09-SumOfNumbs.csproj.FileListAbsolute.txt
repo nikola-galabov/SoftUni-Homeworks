@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\09-SumOfNumbs\bin\Debug\09-SumOfNumbs.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\09-SumOfNumbs\bin\Debug\09-SumOfNumbs.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\09-SumOfNumbs\obj\Debug\09-SumOfNumbs.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\09-SumOfNumbs\obj\Debug\09-SumOfNumbs.pdb

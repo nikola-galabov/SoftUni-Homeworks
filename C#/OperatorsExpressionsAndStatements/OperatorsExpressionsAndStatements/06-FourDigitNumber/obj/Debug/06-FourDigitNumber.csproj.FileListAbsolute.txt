@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06-FourDigitNumber\bin\Debug\06-FourDigitNumber.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06-FourDigitNumber\bin\Debug\06-FourDigitNumber.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06-FourDigitNumber\obj\Debug\06-FourDigitNumber.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\06-FourDigitNumber\obj\Debug\06-FourDigitNumber.pdb

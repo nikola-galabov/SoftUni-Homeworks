@@ -1,0 +1,4 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02-Problem 2. FloatOrDoubleCheck\bin\Debug\_02_Problem_2.FloatOrDoubleCheck.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02-Problem 2. FloatOrDoubleCheck\bin\Debug\_02_Problem_2.FloatOrDoubleCheck.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02-Problem 2. FloatOrDoubleCheck\obj\Debug\_02_Problem_2.FloatOrDoubleCheck.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\02-Problem 2. FloatOrDoubleCheck\obj\Debug\_02_Problem_2.FloatOrDoubleCheck.pdb

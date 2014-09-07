@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11-ExtractBit3\bin\Debug\11-ExtractBit3.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11-ExtractBit3\bin\Debug\11-ExtractBit3.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11-ExtractBit3\obj\Debug\11-ExtractBit3.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\11-ExtractBit3\obj\Debug\11-ExtractBit3.pdb

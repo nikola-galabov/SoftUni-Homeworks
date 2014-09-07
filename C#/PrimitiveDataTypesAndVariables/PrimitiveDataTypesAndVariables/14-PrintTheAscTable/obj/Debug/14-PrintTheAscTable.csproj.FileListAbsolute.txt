@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\14-PrintTheAscTable\bin\Debug\14-PrintTheAscTable.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\14-PrintTheAscTable\bin\Debug\14-PrintTheAscTable.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\14-PrintTheAscTable\obj\Debug\14-PrintTheAscTable.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\14-PrintTheAscTable\obj\Debug\14-PrintTheAscTable.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\14-PrintTheAscTable\obj\Debug\14-PrintTheAscTable.pdb

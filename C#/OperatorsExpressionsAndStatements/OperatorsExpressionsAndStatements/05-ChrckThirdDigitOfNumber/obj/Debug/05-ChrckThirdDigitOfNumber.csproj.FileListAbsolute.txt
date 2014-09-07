@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05-ChrckThirdDigitOfNumber\bin\Debug\05-ChrckThirdDigitOfNumber.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05-ChrckThirdDigitOfNumber\bin\Debug\05-ChrckThirdDigitOfNumber.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05-ChrckThirdDigitOfNumber\obj\Debug\05-ChrckThirdDigitOfNumber.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\05-ChrckThirdDigitOfNumber\obj\Debug\05-ChrckThirdDigitOfNumber.pdb

@@ -1,0 +1,2 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\7-PrintTheSequance\obj\Debug\7-PrintTheSequance.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\IntroducingToProgramming\7-PrintTheSequance\obj\Debug\7-PrintTheSequance.pdb

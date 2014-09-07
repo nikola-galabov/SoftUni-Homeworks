@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07-PointInCircle\bin\Debug\07-PointInCircle.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07-PointInCircle\bin\Debug\07-PointInCircle.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07-PointInCircle\obj\Debug\07-PointInCircle.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\07-PointInCircle\obj\Debug\07-PointInCircle.pdb

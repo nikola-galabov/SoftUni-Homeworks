@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13-CheckBitAtPosition\bin\Debug\13-CheckBitAtPosition.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13-CheckBitAtPosition\bin\Debug\13-CheckBitAtPosition.pdb
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13-CheckBitAtPosition\obj\Debug\13-CheckBitAtPosition.exe
+c:\users\niki\documents\visual studio 2012\Projects\OperatorsExpressionsAndStatements\13-CheckBitAtPosition\obj\Debug\13-CheckBitAtPosition.pdb

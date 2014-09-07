@@ -1,0 +1,5 @@
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12-BankAccountData\bin\Debug\12-BankAccountData.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12-BankAccountData\bin\Debug\12-BankAccountData.pdb
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12-BankAccountData\obj\Debug\12-BankAccountData.csprojResolveAssemblyReference.cache
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12-BankAccountData\obj\Debug\12-BankAccountData.exe
+C:\Users\Niki\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\12-BankAccountData\obj\Debug\12-BankAccountData.pdb

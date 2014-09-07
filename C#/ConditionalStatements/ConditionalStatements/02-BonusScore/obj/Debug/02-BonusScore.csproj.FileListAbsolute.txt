@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\02-BonusScore\bin\Debug\02-BonusScore.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\02-BonusScore\bin\Debug\02-BonusScore.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\02-BonusScore\obj\Debug\02-BonusScore.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\02-BonusScore\obj\Debug\02-BonusScore.pdb

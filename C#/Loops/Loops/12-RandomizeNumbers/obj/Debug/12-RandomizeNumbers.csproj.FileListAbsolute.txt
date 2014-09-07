@@ -1,0 +1,5 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\12-RandomizeNumbers\bin\Debug\12-RandomizeNumbers.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\12-RandomizeNumbers\bin\Debug\12-RandomizeNumbers.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\12-RandomizeNumbers\bin\Debug\12-RandomizeNumbers.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\12-RandomizeNumbers\obj\Debug\12-RandomizeNumbers.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\12-RandomizeNumbers\obj\Debug\12-RandomizeNumbers.pdb

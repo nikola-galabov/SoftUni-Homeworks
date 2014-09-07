@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\04-MultiplicationSign\bin\Debug\04-MultiplicationSign.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\04-MultiplicationSign\bin\Debug\04-MultiplicationSign.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConditionalStatements\04-MultiplicationSign\obj\Debug\04-MultiplicationSign.pdb

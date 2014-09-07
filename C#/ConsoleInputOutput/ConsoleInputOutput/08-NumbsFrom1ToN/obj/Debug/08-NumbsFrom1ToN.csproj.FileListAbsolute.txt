@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\08-NumbsFrom1ToN\bin\Debug\08-NumbsFrom1ToN.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\08-NumbsFrom1ToN\bin\Debug\08-NumbsFrom1ToN.pdb
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\08-NumbsFrom1ToN\obj\Debug\08-NumbsFrom1ToN.exe
+c:\users\niki\documents\visual studio 2012\Projects\ConsoleInputOutput\08-NumbsFrom1ToN\obj\Debug\08-NumbsFrom1ToN.pdb

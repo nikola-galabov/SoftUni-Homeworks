@@ -1,0 +1,4 @@
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\8-ReformatTheCode\bin\Debug\8-ReformatTheCode.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\8-ReformatTheCode\bin\Debug\8-ReformatTheCode.pdb
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\8-ReformatTheCode\obj\Debug\8-ReformatTheCode.exe
+c:\users\niki\documents\visual studio 2012\Projects\IntroducingToProgramming\8-ReformatTheCode\obj\Debug\8-ReformatTheCode.pdb

@@ -1,0 +1,6 @@
+c:\users\niki\documents\visual studio 2012\Projects\Loops\01-NumbsFrom1toN\bin\Debug\01-NumbsFrom1toN.exe.config
+c:\users\niki\documents\visual studio 2012\Projects\Loops\01-NumbsFrom1toN\bin\Debug\01-NumbsFrom1toN.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\01-NumbsFrom1toN\bin\Debug\01-NumbsFrom1toN.pdb
+c:\users\niki\documents\visual studio 2012\Projects\Loops\01-NumbsFrom1toN\obj\Debug\01-NumbsFrom1toN.csprojResolveAssemblyReference.cache
+c:\users\niki\documents\visual studio 2012\Projects\Loops\01-NumbsFrom1toN\obj\Debug\01-NumbsFrom1toN.exe
+c:\users\niki\documents\visual studio 2012\Projects\Loops\01-NumbsFrom1toN\obj\Debug\01-NumbsFrom1toN.pdb
